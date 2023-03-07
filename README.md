@@ -4,13 +4,19 @@
 
 **Languages and Tools:**
 
-<p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="java">
+<p align="left">
+<img src="https://github.com/angelleoneltorrelopez/angelleoneltorrelopez/raw/main/images/javascript.svg" width="40" height="40" alt="javascript">
 
+<img src="https://github.com/angelleoneltorrelopez/angelleoneltorrelopez/raw/main/images/java.svg" width="40" height="40" alt="java">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" height="40" style="vertical-align:down; margin:4px" alt="cucumber" />
+<img src="https://github.com/angelleoneltorrelopez/angelleoneltorrelopez/raw/main/images/cucumber.svg" width="40" height="40" alt="cucumber" />
 
+<img src="https://github.com/angelleoneltorrelopez/angelleoneltorrelopez/raw/main/images/selenium.svg" width="40" height="40" alt="selenium" />
 
+<img src="https://github.com/angelleoneltorrelopez/angelleoneltorrelopez/raw/main/images/cypress-icon.svg" width="40" height="40" alt="cypress" />
+
+<img src="https://github.com/angelleoneltorrelopez/angelleoneltorrelopez/raw/main/images/appium.svg" width="40" height="40" alt="appium" />
+
+<img src="https://github.com/angelleoneltorrelopez/angelleoneltorrelopez/raw/main/images/playwright.svg" width="40" height="40" alt="playwright" />
 
 </p>
