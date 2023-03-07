@@ -1,18 +1,16 @@
-![](https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif)
+📈 my github stats
 
-### Hi there 👋
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=angelleoneltorrelopez&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-<!--
-**angelleoneltorrelopez/angelleoneltorrelopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages and Tools:**
 
-Here are some ideas to get you started:
+<p>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="java">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" height="40" style="vertical-align:down; margin:4px" alt="cucumber" />
+
+
+
+</p>
