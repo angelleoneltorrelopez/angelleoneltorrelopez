@@ -19,20 +19,13 @@
 **Languages and Tools:**
 
 <p align="left">
-<div class="contenedor">
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
 <img src="images/javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 </a>
-<div class="centrado">Centrado</div>
-</div>
 
-<div class="contenedor">
 <a href="https://www.java.com/">
 <img src="images/java.svg" height="40" style="vertical-align:down; margin:4px" alt="java">
 </a>
-
-<div class="centrado">Centrado</div>
-</div>
 
 <a href="https://cucumber.io/">
 <img src="images/cucumber.svg" height="40" style="vertical-align:down; margin:4px" alt="cucumber" />
