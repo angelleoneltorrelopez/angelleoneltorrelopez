@@ -1,4 +1,7 @@
 
+<a href="https://www.ingenieriazeros.com/">
+<img align="left" src="images/blogger.svg" height="40" style="vertical-align:down; margin:6px" alt="blogger">
+</a>
 <a href="https://www.linkedin.com/in/angelleoneltorrelopez/">
 <img align="left" src="images/linkedin-icon.svg" height="40" style="vertical-align:down; margin:6px" alt="linkedin">
 </a>
@@ -20,14 +23,35 @@
 
 <img src="images/java.svg" height="40" style="vertical-align:down; margin:4px" alt="java">
 
+<a href="https://cucumber.io/">
 <img src="images/cucumber.svg" height="40" style="vertical-align:down; margin:4px" alt="cucumber" />
+</a>
 
+<a href="https://www.selenium.dev/">
 <img src="images/selenium.svg" height="40" style="vertical-align:down; margin:4px" alt="selenium" />
+</a>
 
+<a href="https://www.cypress.io/">
 <img src="images/cypress-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="cypress" />
+</a>
 
+<a href="https://appium.io/">
 <img src="images/appium.svg" height="40" style="vertical-align:down; margin:4px" alt="appium" />
+</a>
 
+<a href="https://playwright.dev/">
 <img src="images/playwright.svg" height="40" style="vertical-align:down; margin:4px" alt="playwright" />
+</a>
 
+<a href="https://git-scm.com/">
+<img src="images/git-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="git" />
+</a>
+
+<a href="https://www.atlassian.com/es/software/jira">
+<img src="images/jira.svg" height="40" style="vertical-align:down; margin:4px" alt="jira" />
+</a>
+
+<a href="https://azure.microsoft.com/es-es/products/devops">
+<img src="images/azure-devops.png" height="40" style="vertical-align:down; margin:4px" alt="microsoft azure" />
+</a>
 </p>
