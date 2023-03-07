@@ -19,39 +19,57 @@
 **Languages and Tools:**
 
 <p align="left">
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
 <img src="images/javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<p>javascript</p>
+</a>
 
+<a href="https://www.java.com/">
 <img src="images/java.svg" height="40" style="vertical-align:down; margin:4px" alt="java">
+<p>java</p>
+</a>
 
 <a href="https://cucumber.io/">
 <img src="images/cucumber.svg" height="40" style="vertical-align:down; margin:4px" alt="cucumber" />
+<p>cucumber</p>
 </a>
 
 <a href="https://www.selenium.dev/">
 <img src="images/selenium.svg" height="40" style="vertical-align:down; margin:4px" alt="selenium" />
+<p>selenium</p>
 </a>
 
 <a href="https://www.cypress.io/">
 <img src="images/cypress-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="cypress" />
+<p>cypress</p>
 </a>
 
 <a href="https://appium.io/">
 <img src="images/appium.svg" height="40" style="vertical-align:down; margin:4px" alt="appium" />
+<p>appium</p>
 </a>
 
 <a href="https://playwright.dev/">
 <img src="images/playwright.svg" height="40" style="vertical-align:down; margin:4px" alt="playwright" />
+<p>playwright</p>
 </a>
 
 <a href="https://git-scm.com/">
 <img src="images/git-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="git" />
+<p>git</p>
 </a>
 
 <a href="https://www.atlassian.com/es/software/jira">
 <img src="images/jira.svg" height="40" style="vertical-align:down; margin:4px" alt="jira" />
+<p>jira</p>
 </a>
 
 <a href="https://azure.microsoft.com/es-es/products/devops">
 <img src="images/azure-devops.png" height="40" style="vertical-align:down; margin:4px" alt="microsoft azure" />
+<p>azure</p>
 </a>
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=angelleoneltorrelopez&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Angel's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelleoneltorrelopez&layout=compact&theme=buefy&hide_border=true" />
