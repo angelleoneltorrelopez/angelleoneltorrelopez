@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://www.java.com/">
-<img src="images/java.svg" height="40" style="vertical-align:down; margin:4px" alt="java">
+<img src="images/java.png" height="70" style="vertical-align:down; margin:4px" alt="java">
 </a>
 
 <a href="https://cucumber.io/">
