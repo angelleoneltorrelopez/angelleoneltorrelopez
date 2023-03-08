@@ -20,7 +20,7 @@
 
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-<img src="images/javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="images/javascript.png" height="50" style="vertical-align:down; margin:4px" alt="javascript">
 </a>
 
 <a href="https://www.java.com/">
@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://appium.io/">
-<img src="images/appium.png" height="40" style="vertical-align:down; margin:4px" alt="appium" />
+<img src="images/appium.png" height="50" style="vertical-align:down; margin:4px" alt="appium" />
 </a>
 
 <a href="https://playwright.dev/">
