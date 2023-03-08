@@ -16,47 +16,51 @@
 "Quality is not an act, it is a habit." - Aristotle
 </p>
 
-**Languages and Tools:**
-
+**Languages:**
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-<img src="images/javascript.png" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="images/javascript.png" height="70" style="vertical-align:down; margin:4px" alt="javascript">
 </a>
 
 <a href="https://www.java.com/">
-<img src="images/java.png" height="45" style="vertical-align:down; margin:4px" alt="java">
+<img src="images/java.png" height="75" style="vertical-align:down; margin:4px" alt="java">
 </a>
 
+**Automatization tools:**
+
 <a href="https://cucumber.io/">
-<img src="images/cucumber.svg" height="40" style="vertical-align:down; margin:4px" alt="cucumber" />
+<img src="images/cucumber.svg" height="70" style="vertical-align:down; margin:4px" alt="cucumber" />
 </a>
 
 <a href="https://www.selenium.dev/">
-<img src="images/selenium.svg" height="40" style="vertical-align:down; margin:4px" alt="selenium" />
+<img src="images/selenium.svg" height="70" style="vertical-align:down; margin:4px" alt="selenium" />
 </a>
 
 <a href="https://www.cypress.io/">
-<img src="images/cypress-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="cypress" />
+<img src="images/cypress-icon.svg" height="70" style="vertical-align:down; margin:4px" alt="cypress" />
 </a>
 
 <a href="https://appium.io/">
-<img src="images/appium.svg" height="50" style="vertical-align:down; margin:4px" alt="appium" />
+<img src="images/appium.svg" height="70" style="vertical-align:down; margin:4px" alt="appium" />
 </a>
 
 <a href="https://playwright.dev/">
-<img src="images/playwright.svg" height="40" style="vertical-align:down; margin:4px" alt="playwright" />
+<img src="images/playwright.svg" height="70" style="vertical-align:down; margin:4px" alt="playwright" />
 </a>
 
+
+**Other tools:**
+
 <a href="https://git-scm.com/">
-<img src="images/git-icon.svg" height="40" style="vertical-align:down; margin:4px" alt="git" />
+<img src="images/git-icon.svg" height="70" style="vertical-align:down; margin:4px" alt="git" />
 </a>
 
 <a href="https://www.atlassian.com/es/software/jira">
-<img src="images/jira.svg" height="40" style="vertical-align:down; margin:4px" alt="jira" />
+<img src="images/jira.svg" height="70" style="vertical-align:down; margin:4px" alt="jira" />
 </a>
 
 <a href="https://azure.microsoft.com/es-es/products/devops">
-<img src="images/azure-devops.png" height="40" style="vertical-align:down; margin:4px" alt="microsoft azure" />
+<img src="images/azure-devops.png" height="70" style="vertical-align:down; margin:4px" alt="microsoft azure" />
 </a>
 
 
