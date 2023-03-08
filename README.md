@@ -18,7 +18,7 @@
 
 **Languages and Tools:**
 
-<p align="left">
+
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
 <img src="images/javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 </a>
@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://appium.io/">
-<img src="images/appium.svg" height="40" style="vertical-align:down; margin:4px" alt="appium" />
+<img src="images/appium.png" height="40" style="vertical-align:down; margin:4px" alt="appium" />
 </a>
 
 <a href="https://playwright.dev/">
@@ -58,7 +58,7 @@
 <a href="https://azure.microsoft.com/es-es/products/devops">
 <img src="images/azure-devops.png" height="40" style="vertical-align:down; margin:4px" alt="microsoft azure" />
 </a>
-</p>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelleoneltorrelopez&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Angel's github stats" />
 
