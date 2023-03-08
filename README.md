@@ -74,6 +74,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelleoneltorrelopez&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Angel's github stats" />
 
-</br>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelleoneltorrelopez&layout=compact&theme=buefy&hide_border=true" />
